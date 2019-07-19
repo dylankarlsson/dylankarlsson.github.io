@@ -1,7 +1,2 @@
-{%- if jekyll.environment != 'development' -%}
-  {%- if site.analytics.provider == 'google' -%}
-    {%- include analytics-providers/google.html -%}
-  {%- elsif site.analytics.provider == 'custom' -%}
-    {%- include analytics-providers/custom.html -%}
-  {%- endif -%}
-{%- endif -%}
+<!-- Here you can add your Google Analytics Tracking code. If you do so, do not
+forget to set the include_analytics attribute to true on the _config.yml file -->
