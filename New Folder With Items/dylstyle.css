@@ -1,18 +1,23 @@
 body {
-  font-family: 'oregon_ldoregular';
+  font-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
-  color: #330033;
   padding-left: 50px;
   background-image: url("css/dylbackground.jpg");
 }
 img {
 
 }
+.link {
+  font-family: oregon_ldoregular;
+  font-weight: normal;
+  font-style: normal;
+  color: #330033;
+}
 
 @font-face {
-    font-family: 'oregon_ldoregular';
-    src: url('oregon_ldo.eot');
+    src: url(fontkit/oregon_ldo.eot);
+    font-family: oregon_ldoregular;
     src: url('https://dylankarlsson.github.io/css/fontkit/oregon_ldo.eot') format('embedded-opentype'),
          url('https://dylankarlsson.github.io/css/fontkit/oregon_ldo.woff2') format('woff2'),
          url('https://dylankarlsson.github.io/css/fontkit/oregon_ldo.woff') format('woff'),
