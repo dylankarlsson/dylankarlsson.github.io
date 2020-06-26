@@ -2,18 +2,12 @@ body {
   font-family: 'oregon_ldoregular';
   font-weight: normal;
   font-style: normal;
+  color: #330033;
   padding-left: 50px;
   background-image: url("css/dylbackground.jpg");
 }
 img {
 
-}
-h1 {
-  font-family: 'oregon_ldoregular';
-  font-size: 12px;
-  font-weight: normal;
-  font-style: normal;
-  font-color: #330033;
 }
 
 @font-face {
