@@ -16,10 +16,10 @@ img {
 }
 
 @font-face {
-    src: url("css/fontkit/oregon_ldo.ttf");
+    src: url("dylankarlsson.github.io/css/fontkit/oregon_ldo.ttf");
     font-family: oregon_ldoregular;
-    src: url("css/fontkit/oregon_ldo.eot") format(embedded-opentype),
-         url("css/fontkit/oregon_ldo.woff2") format(woff2),
-         url("css/fontkit/oregon_ldo.woff") format(woff),
-         url("css/fontkit/oregon_ldo.svg#oregon_ldoregular") format(svg);
+    src: url("dylankarlsson.github.io/css/fontkit/oregon_ldo.eot") format(embedded-opentype),
+         url("dylankarlsson.github.io/css/fontkit/oregon_ldo.woff2") format(woff2),
+         url("dylankarlsson.github.io/css/fontkit/oregon_ldo.woff") format(woff),
+         url("dylankarlsson.github.io/css/fontkit/oregon_ldo.svg#oregon_ldoregular") format(svg);
   }
