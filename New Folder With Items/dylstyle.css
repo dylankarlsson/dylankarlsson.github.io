@@ -1,5 +1,5 @@
 body {
-  font-family: 'oregon_ldoregular';
+  font-family: 'oregon_ldo';
   font-weight: normal;
   font-style: normal;
   padding-left: 50px;
@@ -10,7 +10,7 @@ img {
 }
 
 @font-face {
-    font-family: 'oregon_ldoregular';
+    font-family: 'oregon_ldo';
     src: url('oregon_ldo.eot');
     src: url('https://dylankarlsson.github.io/css/fontkit/oregon_ldo.eot') format('embedded-opentype'),
          url('https://dylankarlsson.github.io/css/fontkit/oregon_ldo.woff2') format('woff2'),
