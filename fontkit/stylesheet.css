@@ -4,8 +4,11 @@
 
 @font-face {
     font-family: 'oregon_ldoregular';
-    src: url('oregon_ldo-webfont.woff2') format('woff2'),
-         url('oregon_ldo-webfont.woff') format('woff');
+    src: url('oregon_ldo.eot');
+    src: url('oregon_ldo.eot?#iefix') format('embedded-opentype'),
+         url('oregon_ldo.woff2') format('woff2'),
+         url('oregon_ldo.woff') format('woff'),
+         url('oregon_ldo.svg#oregon_ldoregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
