@@ -8,6 +8,13 @@ body {
 img {
 
 }
+h1 {
+  font-family: 'oregon_ldoregular';
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-color: #330033;
+}
 
 @font-face {
     font-family: 'oregon_ldoregular';
