@@ -1,0 +1,15 @@
+body {
+  font-family: oregon_ldoregular;
+  padding-left: 50px;
+  background-image: url("dylbackground.jpg");
+}
+img {
+
+}
+
+@font-face {
+    font-family: 'oregon_ldoregular';
+    src: url('dylkarlsson/dylan karlsson/fontkit/oregon_ldo-webfont.woff2') format('woff2'),
+         url('dylkarlsson/dylan karlsson/fontkit/oregon_ldo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
