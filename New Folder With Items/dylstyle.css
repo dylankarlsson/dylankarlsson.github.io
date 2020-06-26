@@ -16,7 +16,7 @@ img {
 }
 
 @font-face {
-    src: url(fontkit/oregon_ldo.eot);
+    src: url(css/fontkit/oregon_ldo.eot);
     font-family: oregon_ldoregular;
     src: url(https://dylankarlsson.github.io/css/fontkit/oregon_ldo.eot) format(embedded-opentype),
          url(https://dylankarlsson.github.io/css/fontkit/oregon_ldo.woff2) format(woff2),
