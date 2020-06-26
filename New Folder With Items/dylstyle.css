@@ -1,0 +1,21 @@
+body {
+  font-family: 'oregon_ldoregular';
+  font-weight: normal;
+  font-style: normal;
+  padding-left: 50px;
+  background-image: url("dylbackground.jpg");
+}
+img {
+
+}
+
+@font-face {
+    font-family: 'oregon_ldoregular';
+    src: url('oregon_ldo.eot');
+    src: url('https://dylankarlsson.github.io/css/fontkit/oregon_ldo.eot') format('embedded-opentype'),
+         url('https://dylankarlsson.github.io/css/fontkit/oregon_ldo.woff2') format('woff2'),
+         url('https://dylankarlsson.github.io/css/fontkit/oregon_ldo.woff') format('woff'),
+         url('https://dylankarlsson.github.io/css/fontkit/oregon_ldo.svg') format('svg');   
+    font-weight: normal;
+    font-style: normal;
+  }
