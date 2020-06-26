@@ -10,7 +10,7 @@ img {
 @font-face {
     font-family: 'oregon_ldoregular';
     src: url('https://dylankarlsson.github.io/fontkit/oregon_ldo-webfont.woff2') format('woff2'),
-         url('https://dylankarlsson.cgithub.io/fontkit/oregon_ldo-webfont.woff') format('woff');
+         url('https://dylankarlsson.github.io/fontkit/oregon_ldo-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
   }
