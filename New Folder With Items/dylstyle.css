@@ -2,6 +2,8 @@ body {
   font-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
+  font-size: 16px;
+  color: #330033;
   padding-left: 50px;
   background-image: url("dylbackground.jpg");
 }
