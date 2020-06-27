@@ -5,6 +5,12 @@
   padding-left: 50px;
   background-image: url("dylbackground.jpg");
 }
+.about {
+  font-family: oregon_ldoregular;
+  font-weight: normal;
+  font-style: normal;
+  padding-left: 50px;
+}
 img {
 
 }
@@ -12,7 +18,22 @@ img {
   font-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
-  color: #330033;
+  color: #4d004d;
+}
+.redirect {
+  font-family: oregon_ldoregular;
+  font-weight: normal;
+  font-style: oblique;
+  color
+}
+a:link {
+  color: #4d004d;
+}
+a:visited {
+  color: #330033
+}
+a:hover {
+  color: #660066;
 }
 
 @font-face {
