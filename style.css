@@ -10,7 +10,7 @@
   font-weight: normal;
   font-style: normal;
   padding-left: 50px;
-  background-image: url("hazybackground.jpg");
+  background:linear-gradient(to bottom, #ffffe6, #dfff80);
 }
 img {
 
