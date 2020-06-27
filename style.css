@@ -44,6 +44,9 @@ a:visited {
 a:hover {
   color: #660066;
 }
+.module {
+  cursor: url("gam14.ani"), auto;
+}
 
 @font-face {
     font-family: oregon_ldoregular;
