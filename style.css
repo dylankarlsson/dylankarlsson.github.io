@@ -4,7 +4,7 @@
   font-style: normal;
   padding-left: 50px;
   background-image: url("dylbackground.jpg");
-  cursor: url("gam14.ani"), url("gam14.ani"), auto;
+  cursor: url("cursor.gif"), url("cursor.gif"), auto;
 }
 .about {
   font-family: oregon_ldoregular;
@@ -16,7 +16,7 @@
   background-size: 100%;
   background-repeat: round;
   background-attachment: fixed;
-  cursor: url("gam14.ani"), url("gam14.ani"), auto;
+  cursor: url("cursor.gif"), url("cursor.gif"), auto;
 }
 img {
 
