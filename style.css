@@ -12,8 +12,10 @@
   font-style: normal;
   padding-left: 50px;
   background:linear-gradient(to bottom, #ffffe6, #dfff80);
+  height: 100%;
   background-size: 100%;
   background-repeat: round;
+  background-attachment: fixed;
   cursor: url("gam14.ani"), url("gam14.ani"), auto;
 }
 img {
