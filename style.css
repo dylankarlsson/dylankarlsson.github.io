@@ -44,7 +44,7 @@ a:visited {
 a:hover {
   color: #660066;
 }
-.module {
+.cursor {
   cursor: url("gam14.ani"), auto;
 }
 
