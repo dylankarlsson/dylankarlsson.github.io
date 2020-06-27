@@ -27,6 +27,14 @@ img {
   font-style: oblique;
   color
 }
+.about {
+  font-family: oregon_ldoregular;
+  font-weight: normal;
+  font-style: normal;
+  color: #4d004d;
+  padding-left: 400px;
+  padding-top: 400px;
+}
 a:link {
   color: #4d004d;
 }
