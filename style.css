@@ -38,6 +38,12 @@ img {
   color: #4d004d;
   padding-left: 400px;
 }
+.wk-h {
+  font-family: oregon_ldoregular;
+  font-weight: bold;
+  font-style: normal;
+  color: black;
+}
 a:link {
   color: #4d004d;
 }
