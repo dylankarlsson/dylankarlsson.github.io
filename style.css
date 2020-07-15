@@ -40,8 +40,9 @@ img {
 }
 .wk-h {
   font-family: oregon_ldoregular;
-  font-weight: bold;
+  font-weight: normal;
   font-style: normal;
+  font-size: 24px;
   color: black;
 }
 a:link {
