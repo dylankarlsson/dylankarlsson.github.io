@@ -23,6 +23,7 @@ img {
   font-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
+  font-size: 22px;
   color: #4d004d;
 }
 .redirect {
@@ -42,7 +43,7 @@ img {
   font-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
-  font-size: 24px;
+  font-size: 22px;
   color: black;
 }
 a:link {
