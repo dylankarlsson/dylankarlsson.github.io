@@ -17,6 +17,10 @@
   background-repeat: round;
   background-attachment: fixed;
 }
+.newborn {
+  font-family: hoefler;
+  font-weight: normal;
+}
 img {
 
 }
@@ -65,3 +69,7 @@ a:hover {
          url("dylankarlsson.github.io/fontkit/oregon_ldo.woff") format(woff),
          url("dylankarlsson.github.io/fontkit/oregon_ldo.svg#oregon_ldoregular") format(svg);
   }
+@font-face {
+  font-family: hoefler;
+  src: url("dylankarlsson.github.io/fontkit/Hoefler Text.ttc");
+}
