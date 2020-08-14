@@ -18,7 +18,7 @@
   background-attachment: fixed;
 }
 .newborn {
-  font-family: hoefler;
+  font-family: andale_mono;
   font-weight: normal;
   padding-left: 50px;
 }
@@ -71,6 +71,9 @@ a:hover {
          url("dylankarlsson.github.io/fontkit/oregon_ldo.svg#oregon_ldoregular") format(svg);
   }
 @font-face {
-  font-family: hoefler;
-  src: url("dylankarlsson.github.io/fontkit/Hoefler Text.ttc");
+  font-family: andale_mono;
+  src: url("dylankarlsson.github.io/fontkit/andale_mono.eot") format(embedded-opentype),
+       url("dylankarlsson.github.io/fontkit/andale_mono.woff2") format(woff2),
+       url("dylankarlsson.github.io/fontkit/andale_mono.woff") format(woff),
+       url("dylankarlsson.github.io/fontkit/andale_mono.svg#andale_mono") format(svg);
 }
