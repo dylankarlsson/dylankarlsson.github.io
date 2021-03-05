@@ -79,3 +79,8 @@ a:hover {
        url("dylankarlsson.github.io/fontkit/andale_mono.woff") format(woff),
        url("dylankarlsson.github.io/fontkit/andale_mono.svg#andale_mono") format(svg);
 }
+
+div.scrollmenu {
+  overflow: auto;
+  white-space: nowrap;
+}
