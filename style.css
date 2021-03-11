@@ -83,4 +83,6 @@ a:hover {
 div.scrollmenu {
   overflow: auto;
   white-space: nowrap;
+  padding-left: 50px;
+  padding-top: 100px;
 }
