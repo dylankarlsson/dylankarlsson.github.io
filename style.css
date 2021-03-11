@@ -85,5 +85,7 @@ div.scrollmenu {
   white-space: nowrap;
   padding-left: 50px;
   padding-top: 100px;
+}
+div.scrollmenu::-webkit-scrollbar {
   display: none;
 }
