@@ -80,13 +80,14 @@ a:hover {
        url("dylankarlsson.github.io/fontkit/andale_mono.svg#andale_mono") format(svg);
 }
 
+.kitchek {
+  background-color: #c7edc8;
+}
 div.scrollmenu {
   overflow: auto;
   white-space: nowrap;
   padding-left: 50px;
   padding-top: 100px;
-  background-size: 100%;
-  background-image: image(blinds.png);
 }
 div.scrollmenu::-webkit-scrollbar {
   display: none;
