@@ -82,6 +82,7 @@ a:hover {
 
 .kitchek {
   background:linear-gradient(to bottom, #331a00, #ffffff);
+  font-family: "Lucida Console"
 }
 div.scrollmenu {
   overflow: auto;
