@@ -81,7 +81,7 @@ a:hover {
 }
 
 .kitchek {
-  background-color: #081b1f;
+  background:linear-gradient(to bottom, #331a00, #ffffff);
 }
 div.scrollmenu {
   overflow: auto;
