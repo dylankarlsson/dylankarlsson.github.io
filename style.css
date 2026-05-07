@@ -114,7 +114,7 @@ div.scrollmenu::-webkit-scrollbar {
   padding: 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #000000;
   display: block;
 }
 .side-panel .closebtn {
@@ -130,7 +130,7 @@ div.scrollmenu::-webkit-scrollbar {
   padding: 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #000000;
   display: block;
 }
 
@@ -138,5 +138,5 @@ div.scrollmenu::-webkit-scrollbar {
   ont-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
-  color: #f1f1f1;
+  color: #706080;
 }
