@@ -96,7 +96,7 @@ div.scrollmenu::-webkit-scrollbar {
 
 .side-panel {
   height: 100%;
-  width: 0; /* Hidden by default */
+  width: 35%; /* Hidden by default */
   position: fixed;
   z-index: 1;
   top: 0;
