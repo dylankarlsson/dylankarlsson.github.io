@@ -101,7 +101,7 @@ div.scrollmenu::-webkit-scrollbar {
   z-index: 1;
   top: 0;
   right: 0; /* Anchors it to the right */
-  background-color: #111;
+  background-color: #ffffff;
   overflow-x: hidden;
   transition: 0.5s; /* Smooth slide-in effect */
   padding-top: 60px;
@@ -111,9 +111,9 @@ div.scrollmenu::-webkit-scrollbar {
   ont-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
-  padding: 8px 32px;
+  padding: 8px 8px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 14px;
   color: #000000;
   display: block;
 }
@@ -127,9 +127,9 @@ div.scrollmenu::-webkit-scrollbar {
   ont-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
-  padding: 8px 32px;
+  padding: 8px 8px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 14px;
   color: #000000;
   display: block;
 }
