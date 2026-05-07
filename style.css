@@ -107,3 +107,193 @@ div.scrollmenu::-webkit-scrollbar {
             z-index: 10;
             flex-shrink: 0;          /* prevent shrinking on narrow view */
         }
+
+        /* panel header with branding */
+.panel-header {
+            padding: 1.8rem 1.5rem 1rem 1.8rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+            margin-bottom: 1.2rem;
+        }
+
+.panel-header h2 {
+            font-weight: 600;
+            font-size: 1.65rem;
+            letter-spacing: -0.3px;
+            background: linear-gradient(130deg, #ffffff, #bdd4ff);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            margin-bottom: 0.4rem;
+        }
+
+.panel-header p {
+            font-size: 0.8rem;
+            opacity: 0.7;
+            font-weight: 400;
+            margin-top: 6px;
+        }
+
+        /* simple links container */
+.links-container {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            padding: 0 1.2rem 2rem 1.8rem;
+            flex: 1;
+        }
+
+        /* individual link items - clean, accessible, modern */
+.nav-link {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 0.7rem 1rem;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 14px;
+            text-decoration: none;
+            color: #f0f4fa;
+            font-weight: 500;
+            font-size: 1rem;
+            transition: all 0.2s cubic-bezier(0.2, 0.9, 0.4, 1.1);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            backdrop-filter: blur(2px);
+        }
+
+        /* simple link icon (emoji / character style) */
+.link-icon {
+            font-size: 1.35rem;
+            width: 28px;
+            text-align: center;
+            filter: drop-shadow(0 1px 1px rgba(0,0,0,0.2));
+        }
+
+.link-text {
+            flex: 1;
+            letter-spacing: -0.2px;
+        }
+
+        /* hover & focus states for better UX */
+.nav-link:hover {
+            background: rgba(255, 255, 255, 0.18);
+            border-color: rgba(255, 210, 100, 0.5);
+            transform: translateX(5px);
+            color: #fff;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+        }
+
+.nav-link:focus-visible {
+            outline: 2px solid #ffcd7e;
+            outline-offset: 2px;
+            background: rgba(255, 245, 200, 0.2);
+            border-radius: 14px;
+        }
+
+        /* optional simple badge / extra style for external link indicator */
+.external-indicator {
+            font-size: 0.7rem;
+            opacity: 0.6;
+            transition: opacity 0.2s;
+        }
+.nav-link:hover .external-indicator {
+            opacity: 1;
+        }
+
+        /* category divider (optional but gives structure) */
+.link-category {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 600;
+            color: #9ab3cf;
+            margin: 1rem 0 0.4rem 0.2rem;
+            padding-left: 6px;
+        }
+
+.link-category:first-of-type {
+            margin-top: 0;
+        }
+
+        /* footer inside left panel (minimal) */
+.panel-footer {
+            margin-top: auto;
+            padding: 1.5rem 1.5rem 1.8rem 1.8rem;
+            font-size: 0.7rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.08);
+            color: #8aa0b5;
+        }
+
+        /* ---------- MAIN CONTENT (RIGHT AREA) ---------- */
+.main-content {
+            flex: 1;
+            background: #f8fafd;
+            padding: 2rem 2rem;
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+        }
+
+        /* decorative welcome card */
+.hero-card {
+            background: white;
+            border-radius: 32px;
+            padding: 2.2rem 2rem;
+            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.05);
+            margin-bottom: 2rem;
+            border: 1px solid rgba(0, 0, 0, 0.03);
+        }
+
+.hero-card h1 {
+            font-size: 1.9rem;
+            font-weight: 600;
+            background: linear-gradient(125deg, #1e2a36, #2f4858);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+.hero-card p {
+            color: #3c4b5a;
+            max-width: 85%;
+            margin: 0.5rem 0;
+        }
+
+        /* grid for info cards */
+.info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 1.5rem;
+            margin-top: 0.5rem;
+        }
+
+.info-card {
+            background: white;
+            border-radius: 24px;
+            padding: 1.3rem 1.5rem;
+            transition: 0.2s;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+            border: 1px solid #eef2f8;
+        }
+
+.info-card h3 {
+            font-weight: 600;
+            font-size: 1.25rem;
+            margin-bottom: 0.6rem;
+            color: #1f2d3a;
+        }
+
+.info-card p {
+            color: #4a5a6e;
+            font-size: 0.9rem;
+        }
+
+        /* highlight link preview (just demo) */
+.demo-note {
+            margin-top: 2rem;
+            background: #eef3fc;
+            padding: 1rem 1.5rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            border-left: 4px solid #2c5f8a;
+            color: #1d3e5c;
+        }
