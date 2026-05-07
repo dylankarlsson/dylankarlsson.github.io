@@ -102,10 +102,8 @@ div.scrollmenu::-webkit-scrollbar {
   top: 0;
   right: 0; /* Anchors it to the right */
   background-color: #ffffff;
-  overflow-x: hidden;
   transition: 0.5s; /* Smooth slide-in effect */
   padding-top: 60px;
-  color: white;
 }
 .side-panel p {
   ont-family: oregon_ldoregular;
