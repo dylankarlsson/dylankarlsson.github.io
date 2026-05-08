@@ -57,7 +57,7 @@ img {
   font-family: helvetica-neue;
   font-weight: normal;
   font-style: bold;
-  font-size: clamp(1rem, 2.5vw, 1.2rem);
+  font-size: clamp(1.5rem, 3vw, 3rem);
   color: #5b4f78;
   padding-left: 50px;
 }
@@ -65,7 +65,7 @@ img {
   font-family: helvetica-neue;
   font-weight: normal;
   font-style: bold;
-  font-size: clamp(0.8rem, 1vw, 1rem);
+  font-size: clamp(1.4rem, 2.5vw, 2rem);
   color: #a89dc2;
   padding-left: 50px;
 }
