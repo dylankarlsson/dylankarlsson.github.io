@@ -93,8 +93,8 @@ a:hover {
   font-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
-  font-size: clamp(1rem, 2.5vw, 1.2rem);
-  padding-left: 50px;
+  font-size: clamp(0.5rem, 1vw, 0.7rem);
+  padding-left: 25px;
 }
 div.scrollmenu {
   overflow: auto;
