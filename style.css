@@ -59,6 +59,7 @@ img {
   font-style: bold;
   font-size: clamp(1rem, 2.5vw, 1.2rem);
   color: #5b4f78;
+  padding-left: 30px;
 }
 .wk-h2 {
   font-family: oregon_ldoregular;
@@ -66,6 +67,15 @@ img {
   font-style: bold;
   font-size: clamp(0.8rem, 1vw, 1rem);
   color: #a89dc2;
+  padding-left: 30px;
+}
+.wl-p {
+  font-family: oregon_ldoregular;
+  font-weight: normal;
+  font-style: normal;
+  font-size: clamp(0.8rem, 1vw, 1rem);
+  color: #a89dc2;
+  padding-left: 30px;
 }
 a:link {
   color: #4d004d;
@@ -92,6 +102,14 @@ a:hover {
        url("dylankarlsson.github.io/fontkit/andale_mono.woff2") format(woff2),
        url("dylankarlsson.github.io/fontkit/andale_mono.woff") format(woff),
        url("dylankarlsson.github.io/fontkit/andale_mono.svg#andale_mono") format(svg);
+}
+@font-face {
+  font-family: helvetica-neue;
+  src: url("dylankarlsson.github.io/fontkit/HelveticaNeue-01.ttf");
+  src: url("dylankarlsson.github.io/fontkit/HelveticaNeue-01.eot") format(embedded-opentype),
+       url("dylankarlsson.github.io/fontkit/HelveticaNeue-01.woff2") format(woff2),
+       url("dylankarlsson.github.io/fontkit/HelveticaNeue-01.woff") format(woff),
+       url("dylankarlsson.github.io/fontkit/HelveticaNeue-01..svg#HelveticaNeue-01.") format(svg);
 }
 
 .kitchek {
