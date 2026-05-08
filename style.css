@@ -60,6 +60,8 @@ img {
   font-size: clamp(1.3rem, 2.5vw, 2rem);
   color: #5b4f78;
   padding-left: 50px;
+  padding: 0;
+  line-height: 2rem;
 }
 .wk-h2 {
   font-family: helvetica-neue;
@@ -68,6 +70,9 @@ img {
   font-size: clamp(1.2rem, 2vw, 1.7rem);
   color: #a89dc2;
   padding-left: 50px;
+  padding: 0;
+  line-height: 1.7rem;
+
 }
 .wk-p {
   font-family: helvetica-neue;
@@ -77,6 +82,8 @@ img {
   color: #000000;
   padding-left: 50px;
   padding-right: 50px;
+  padding: 0;
+  line-height: 1rem;
 }
 a:link {
   color: #4d004d;
