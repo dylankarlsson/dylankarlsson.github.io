@@ -57,7 +57,7 @@ img {
   font-family: helvetica-neue;
   font-weight: normal;
   font-style: bold;
-  font-size: clamp(1.5rem, 3vw, 3rem);
+  font-size: clamp(1.3rem, 2.5vw, 2rem);
   color: #5b4f78;
   padding-left: 50px;
 }
@@ -65,16 +65,16 @@ img {
   font-family: helvetica-neue;
   font-weight: normal;
   font-style: bold;
-  font-size: clamp(1.4rem, 2.5vw, 2rem);
+  font-size: clamp(1.2rem, 2vw, 1.7rem);
   color: #a89dc2;
   padding-left: 50px;
 }
-.wl-p {
+.wk-p {
   font-family: helvetica-neue;
   font-weight: normal;
   font-style: normal;
   font-size: clamp(0.8rem, 1vw, 1rem);
-  color: #a89dc2;
+  color: #000000;
   padding-left: 50px;
   padding-right: 50px;
 }
