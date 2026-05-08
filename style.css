@@ -98,7 +98,7 @@ footer {
   width: 100%;
   display: flex; /* Aligns segments side-by-side */
   justify-content: space-around; /* Distributes segments evenly */
-  padding: 25px;
+  padding: 5px;
   font-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
