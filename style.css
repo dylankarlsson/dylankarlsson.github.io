@@ -2,6 +2,7 @@
   font-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
+  font-size: clamp(1rem, 4vw, 3rem);
   padding-left: 50px;
   height: 100%;
 
