@@ -91,7 +91,7 @@ a:hover {
   background:linear-gradient(to bottom, #331a00, #ffffff);
   font-family: "Lucida Console"
 }
-.footer {
+footer {
   position: fixed;
   left: 0;
   bottom: 0;
