@@ -2,7 +2,7 @@
   font-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
-  font-size: clamp(1rem, 2.5vw, 2rem);
+  font-size: clamp(1rem, 2.5vw, 1.2rem);
   padding-left: 50px;
   height: 100%;
 
@@ -31,7 +31,7 @@ img {
   font-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
-  font-size: clamp(1rem, 2.5vw, 2rem);
+  font-size: clamp(1rem, 2.5vw, 1.2rem);
   color: #4d004d;
 }
 .redirect {
@@ -51,7 +51,7 @@ img {
   font-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
-  font-size: clamp(1rem, 2.5vw, 2rem);
+  font-size: clamp(1rem, 2.5vw, 1.2rem);
   color: black;
 }
 a:link {
