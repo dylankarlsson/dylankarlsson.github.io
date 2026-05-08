@@ -96,11 +96,20 @@ a:hover {
   left: 0;
   bottom: 0;
   width: 100%;
+  display: flex; /* Aligns segments side-by-side */
+  justify-content: space-around; /* Distributes segments evenly */
+  padding: 40px;
+  background-color: #333;
+  color: white;
   font-family: oregon_ldoregular;
   font-weight: normal;
   font-style: normal;
   font-size: clamp(0.7rem, 1.5vw, 1rem);
   padding-left: 25px;
+}
+.footer-segment {
+  flex: 1; /* Each segment takes up equal space */
+  margin: 10px;
 }
 div.scrollmenu {
   overflow: auto;
