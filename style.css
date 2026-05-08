@@ -76,6 +76,7 @@ img {
   font-size: clamp(0.8rem, 1vw, 1rem);
   color: #a89dc2;
   padding-left: 30px;
+  padding-right: 30px;
 }
 a:link {
   color: #4d004d;
