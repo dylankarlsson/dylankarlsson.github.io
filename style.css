@@ -99,7 +99,7 @@ footer {
   display: flex; /* Aligns segments side-by-side */
   justify-content: space-around; /* Distributes segments evenly */
   padding: 40px;
-  background-color: #333;
+  background-color: #ffffff;
   color: white;
   font-family: oregon_ldoregular;
   font-weight: normal;
