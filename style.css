@@ -53,12 +53,19 @@ img {
   color: #4d004d;
   padding-left: 400px;
 }
-.wk-h {
+.wk-h1 {
   font-family: oregon_ldoregular;
   font-weight: normal;
-  font-style: normal;
+  font-style: bold;
   font-size: clamp(1rem, 2.5vw, 1.2rem);
-  color: black;
+  color: #5b4f78;
+}
+.wk-h2 {
+  font-family: oregon_ldoregular;
+  font-weight: normal;
+  font-style: bold;
+  font-size: clamp(0.8rem, 1vw, 1rem);
+  color: #a89dc2;
 }
 a:link {
   color: #4d004d;
