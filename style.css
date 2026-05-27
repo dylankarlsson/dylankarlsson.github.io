@@ -76,7 +76,7 @@ img {
   border-bottom: none;
 }
 .wk-h1 {
-  font-family: oregon_ldoregular;
+  font-family: helvetica-neue;
   font-weight: normal;
   font-style: bold;
   font-size: clamp(1.3rem, 2.5vw, 2rem);
@@ -84,7 +84,7 @@ img {
   margin: 0 0 4px;
 }
 .wk-h2 {
-  font-family: oregon_ldoregular;
+  font-family: helvetica-neue;
   font-weight: normal;
   font-style: bold;
   font-size: clamp(1.2rem, 2vw, 1.7rem);
@@ -92,7 +92,7 @@ img {
   margin: 0 0 10px;
 }
 .wk-p {
-  font-family: oregon_ldoregular;
+  font-family: helvetica-neue;
   font-weight: normal;
   font-style: normal;
   font-size: clamp(0.8rem, 1vw, 1rem);
