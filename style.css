@@ -76,7 +76,7 @@ img {
   border-bottom: none;
 }
 .wk-h1 {
-  font-family: helvetica-neue;
+  font-family: breulgroteska;
   font-weight: normal;
   font-style: bold;
   font-size: clamp(1.3rem, 2.5vw, 2rem);
@@ -84,7 +84,7 @@ img {
   margin: 0 0 4px;
 }
 .wk-h2 {
-  font-family: helvetica-neue;
+  font-family: breulgroteska;
   font-weight: normal;
   font-style: bold;
   font-size: clamp(1.2rem, 2vw, 1.7rem);
@@ -92,7 +92,7 @@ img {
   margin: 0 0 10px;
 }
 .wk-p {
-  font-family: helvetica-neue;
+  font-family: breulgroteska;
   font-weight: normal;
   font-style: normal;
   font-size: clamp(0.8rem, 1vw, 1rem);
@@ -132,7 +132,15 @@ a:hover {
   src: url("dylankarlsson.github.io/fontkit/HelveticaNeue-01.eot") format(embedded-opentype),
        url("dylankarlsson.github.io/fontkit/HelveticaNeue-01.woff2") format(woff2),
        url("dylankarlsson.github.io/fontkit/HelveticaNeue-01.woff") format(woff),
-       url("dylankarlsson.github.io/fontkit/HelveticaNeue-01..svg#HelveticaNeue-01.") format(svg);
+       url("dylankarlsson.github.io/fontkit/HelveticaNeue-01.svg#HelveticaNeue-01") format(svg);
+}
+@font-face {
+  font-family: breulgroteska;
+  src: url("dylankarlsson.github.io/fontkit/breulgroteska.ttf");
+  src: url("dylankarlsson.github.io/fontkit/breulgroteska.eot") format(embedded-opentype),
+       url("dylankarlsson.github.io/fontkit/breulgroteska.woff2") format(woff2),
+       url("dylankarlsson.github.io/fontkit/breulgroteska.woff") format(woff),
+       url("dylankarlsson.github.io/fontkit/breulgroteska.svg#breulgroteska") format(svg);
 }
 
 .kitchek {
